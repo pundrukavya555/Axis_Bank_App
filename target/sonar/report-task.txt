@@ -1,0 +1,6 @@
+projectKey=in.kavya:Maven-app
+serverUrl=http://3.111.40.142:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://3.111.40.142:9000/dashboard?id=in.kavya%3AMaven-app
+ceTaskId=AYlO1bESFG_KDM2E-j4c
+ceTaskUrl=http://3.111.40.142:9000/api/ce/task?id=AYlO1bESFG_KDM2E-j4c
